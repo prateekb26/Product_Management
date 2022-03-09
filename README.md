@@ -27,3 +27,9 @@ https://miro.com/app/board/uXjVOJk35P0=/
 
 # User Interview
 https://miro.com/app/board/uXjVOJ1_gJU=/
+
+# Market Segmentation Matrix
+https://miro.com/app/board/uXjVOGi5oGM=/
+
+# Targeting criteria
+https://miro.com/app/board/uXjVOGi5oME=/
